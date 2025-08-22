@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Tom R</h1>
 <h3 align="center">A Computer Science (Software Engineering) Graduate from UK.</h3>
 
-- 🔭 I’m currently working on **N/A**
-
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 📫 How to reach me **tomr827@gmail.com**
+- 📫 Contact me via - **tomr827@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
