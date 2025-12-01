@@ -1,7 +1,37 @@
-<h1 align="center">Hi, I'm Tom R</h1>
-<h3 align="center">A Computer Science (Software Engineering) Graduate from UK.</h3>
+# Hi 👋, I'm Tom
 
-- 📫 Contact me via - **tomr827@gmail.com**
+### BSc (Hons) Computer Science graduate passionate about building user-focused, data-driven solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 🔭 Current Work
+- Developing **an advanced Personal Portfolio website**  
+- Expanding my knowledge of **AI & Machine Learning concepts**  
+- Preparing for **Certifications (AWS Cloud etc)**
+
+## 🌱 Currently Learning
+- **Python**, **C#**, **JavaScript**
+
+## 📫 How to reach me
+- Email: **tomr827@gmail.com**
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/http://www.linkedin.com/in/tom-rockey1)
+
+---
+
+## 🛠 Languages and Tools
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="40" height="40"/></a>
+</p>
