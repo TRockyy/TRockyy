@@ -35,5 +35,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/></a>
 </p>
